@@ -5,7 +5,7 @@ const MyPage = () => {
     // Assuming you have fetched the description and image URL from the database
     const pageTitle = 'Your Page Title';
     const pageDescription = 'Your page description goes here';
-    const pageImageURL = ImageFileOne;
+    const pageImageURL = 'https://images.pexels.com/photos/14120220/pexels-photo-14120220.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load';
 
     return (
         <HelmetProvider>
